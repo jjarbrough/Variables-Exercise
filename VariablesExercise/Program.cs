@@ -9,6 +9,7 @@
             char charVariable = 'Y';
             bool boolVAriable = true;
             double doubleVariable = 13.13;
+            decimal decimalVariable = 0.01m;
             string catName = "Sam";
             int catAge = 4;
             Console.WriteLine($"My Cats name is {catName}, He is {catAge} years old");
